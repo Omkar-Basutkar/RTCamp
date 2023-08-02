@@ -11,6 +11,8 @@ to check page curl is used.
 after the proccess of creation and testing it will destroy using containers and files after wait of 5 minutes.
 and local files will be deleted after 2 mins deletetion on containers.
 
+Terraform can also be used for building infrastructure which has included .sh file. which can be runed directly after importing & installing terraform in linux.(amazon linux installation file provided)
+
 
 steps 
 1. install git and terraform (optional) [terraform file provided to launch server]
